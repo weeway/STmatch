@@ -4,7 +4,7 @@
 
 因为有图形界面，所以
 使用方法，参看下图：
-![](./cSharp/pic.PNG)
+![](./cSharp/UI.PNG)
 
 
 ## python版
