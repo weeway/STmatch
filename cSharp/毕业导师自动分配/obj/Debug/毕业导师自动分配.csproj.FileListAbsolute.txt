@@ -7,6 +7,12 @@ c:\users\守候。\documents\visual studio 2013\Projects\毕业导师自动分�
 c:\users\守候。\documents\visual studio 2013\Projects\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.csproj.GenerateResource.Cache
 c:\users\守候。\documents\visual studio 2013\Projects\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.exe
 c:\users\守候。\documents\visual studio 2013\Projects\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.pdb
-E:\我的学习\软件工程实践\毕业导师自动分配\毕业导师自动分配\bin\Debug\毕业导师自动分配.exe.config
-E:\我的学习\软件工程实践\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.exe
-E:\我的学习\软件工程实践\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.pdb
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\bin\Debug\毕业导师自动分配.exe.config
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.exe
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.pdb
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\bin\Debug\毕业导师自动分配.exe
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\bin\Debug\毕业导师自动分配.pdb
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.csprojResolveAssemblyReference.cache
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.Form1.resources
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.Properties.Resources.resources
+C:\Users\wythe\Desktop\毕业导师自动分配\毕业导师自动分配\毕业导师自动分配\obj\Debug\毕业导师自动分配.csproj.GenerateResource.Cache

@@ -78,17 +78,20 @@ class MaxFlow(object):
             self.add_edge(self.s, stu.i, 1)
             for index in stu.list:
                 self.add_edge(stu.i, self.n + index, 1)
-
+        k = 0
         for tea in self.teas:
+            k += tea.n
             self.add_edge(self.n + tea.i, self.t, tea.n)
 
-        print(self.excute())
-
-
+        print('导师数{} 学生数{} 可收学生数{}'.format(self.m, self.n, k))
+        print('已匹配{}个学生:'.format(self.excute()))
         for e in self.es:
             if e.cap == 0 and \
                             e.u in range(1, self.n + 1) \
                     and e.v in range(self.n + 1, self.n + self.m + 1):
-                # print(e)
-                print("{}->{}".format(self.stus[e.u-1].name,\
-                      self.teas[e.v-(self.n+1)].name))
+                print("{}->{}".format(self.stus[e.u - 1].name, \
+                                      self.teas[e.v - (self.n + 1)].name))
+
+
+        print('未匹配学生:')
+
